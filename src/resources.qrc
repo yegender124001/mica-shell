@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>start.png</file>
+        <file>taskbar.qml</file>
+    </qresource>
+    <qresource prefix="/kicker">
+        <file>kicker.qml</file>
+        <file>SideBar.qml</file>
+    </qresource>
+</RCC>
